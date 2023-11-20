@@ -4,6 +4,8 @@ metadata:
   name: backstage-test-template
   title: Node App with GitHub Actions
   description: Create a Node service with GitHub Actions workflows
+  annotation:
+    backstage.io/techdocs-ref: dir:.
   tags:
     - recommended
 spec:
